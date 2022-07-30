@@ -1,2 +1,3 @@
 first line in fileb
 second line
+third line
